@@ -17,5 +17,9 @@ Event Sourcing et CQRS avec Spring Cloud et AXON Framework
 ![image](https://user-images.githubusercontent.com/52087288/208320790-9531f17d-f93c-4985-a22d-0be07b4bd489.png)
 ![image](https://user-images.githubusercontent.com/52087288/208320820-cb8f0bd3-5fe7-4e08-bda4-9e502b45e18e.png)
 
++ L'affichage d'un événement par AccountID
+
+![image](https://user-images.githubusercontent.com/52087288/208320972-f21e35c8-e245-4aea-8af3-ebe28a4e1a3b.png)
+
 
 
